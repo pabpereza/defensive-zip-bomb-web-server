@@ -13,4 +13,6 @@ pip install flask
 
 # Use
 Execute with python3:
-``` python flask_bomb.py  ```
+``` 
+python flask_bomb.py  
+```
